@@ -6,7 +6,8 @@ Site interativo dedicado aos três Spider-Men do cinema, com carrossel 3D na pá
 
 ## 🖥️ Preview
 
-![Spider-Man Multiversos](img/spider-man-background.jpg)
+<img width="1737" height="813" alt="image" src="https://github.com/user-attachments/assets/ecb5341b-b2c9-40eb-9f14-ec6359457a0a" />
+
 
 ---
 
